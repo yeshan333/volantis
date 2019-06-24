@@ -2403,13 +2403,13 @@
     }
     , function(e, t) {
 		    function aru(index){
-		      return "<img class='emoji aru' src='https://cdn.jsdelivr.net/gh/xaoxuu/volantis@1.0/img/aru/" + index + ".png'>";
+		      return "<img class='emoji aru' src='https://cdn.jsdelivr.net/gh/yeshan333/volantis@1.0/img/aru/" + index + ".png'>";
 		    }
 		    function tieba(str){
-		      return "<img class='emoji tieba' src='https://cdn.jsdelivr.net/gh/xaoxuu/volantis@1.0/img/tieba/" + str + ".png'>";
+		      return "<img class='emoji tieba' src='https://cdn.jsdelivr.net/gh/yeshan333/volantis@1.0/img/tieba/" + str + ".png'>";
 		    }
 		    function qq(str) {
-		      return "<img class='emoji qq' src='https://cdn.jsdelivr.net/gh/xaoxuu/volantis@1.0/img/qq/" + str + ".gif'>";
+		      return "<img class='emoji qq' src='https://cdn.jsdelivr.net/gh/yeshan333/volantis@1.0/img/qq/" + str + ".gif'>";
 		    }
         e.exports = {
                   aru9: aru(9),
